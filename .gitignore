@@ -1,4 +1,7 @@
+# Node
 node_modules
+
+# Outputs
 witness.json
 verification_key.json
 proving_key.json
@@ -8,3 +11,6 @@ public.json
 circuit.json
 package-lock.json
 debug.js
+
+# System
+.DS_Store
