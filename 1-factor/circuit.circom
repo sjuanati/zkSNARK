@@ -3,6 +3,6 @@ template Multiplier() {
     signal private input b;
     signal output c;
 
-    c <== a*b;
+    c <== a * b;
 }
 component main = Multiplier();

@@ -12,5 +12,8 @@
   "dependencies": {
     "circom": "^0.5.38",
     "snarkjs": "^0.3.59"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.31"
   }
 }
