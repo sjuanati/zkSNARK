@@ -2,15 +2,16 @@
 node_modules
 
 # Outputs
-witness.json
-verification_key.json
-proving_key.json
-input.json
-proof.json
-public.json
-circuit.json
-package-lock.json
+# witness.json
+# verification_key.json
+# proving_key.json
+# input.json
+# proof.json
+# public.json
+# circuit.json
+# package-lock.json
 debug.js
+*.ptau
 
 # System
 .DS_Store
