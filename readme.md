@@ -71,9 +71,13 @@ In this case, the beacon is essentially a delayed hash function evaluated on 010
 
 
 *Output will be:
+
 r1cs: generates circuit.r1cs (the r1cs constraint system of the circuit in binary format).
+
 wasm: generates circuit.wasm (the wasm code to generate the witness – more on that later).
+
 sym: generates circuit.sym (a symbols file required for debugging and printing the constraint system in an annotated mode).*
+
 ```sh
     circom circuit.circom --r1cs --wasm --sym
 ```
